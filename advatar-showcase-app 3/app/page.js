@@ -7,7 +7,7 @@ const DEFAULT_CONTENT = `
 <header class="brandbar"><span class="brand-mark">ADVATAR<em>.</em></span></header>
 
 <section class="hero-showcase">
-  <span class="industry-badge" data-editable="true">Food and GAY</span>
+  <span class="industry-badge" data-editable="true">Food and Beverage</span>
   <h1 class="headline" data-editable="true">Marketing Done Right.</h1>
   <p class="subhead" data-editable="true">Strategic, high-level content for over 40 clients — generating millions of views, driving revenue, and elevating engagement, awareness, credibility and brand perception.</p>
 </section>
